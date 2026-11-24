@@ -15,3 +15,7 @@
 ### databricks jobs more features 
 
 <img src="job2.png">
+
+### using autoloader 
+
+<img src="job3.png">
