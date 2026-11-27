@@ -74,3 +74,11 @@ To github.com:redashu/Datasets.git
 
 
 ```
+
+### ETL option using databricks notebook +jobs
+
+<img src="etl1.png">
+
+### building ETL using notebooks + jobs
+
+<img src="etl2.png">
